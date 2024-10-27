@@ -3,7 +3,7 @@
 > *Your friendly neighborhood AI assistant, now in Julia!* 
 
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://yourusername.github.io/Claude.jl/stable)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://JaewooJoung.github.io/Claude.jl/stable)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ```julia

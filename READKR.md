@@ -10,7 +10,8 @@
 using Claude
 client = ClaudeClient()
 response = chat(client, "Julia가 왜 멋진가요?")
-# 빠르고 동적이며, 이제 Claude까지 있으니까요! 🚀
+println(response.content[1].text)
+# ...빠르고 동적이며, 이제 Claude까지 있으니까요! 🚀
 ```
 
 ## 📋 목차

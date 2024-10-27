@@ -10,7 +10,8 @@
 using Claude
 client = ClaudeClient()
 response = chat(client, "Why is Julia awesome?")
-# Because it's fast, dynamic, and now has Claude! 🚀
+println(response.content[1].text)
+# ... Because it's fast, dynamic, and now has Claude! 🚀
 ```
 
 ## 📋 Table of Contents

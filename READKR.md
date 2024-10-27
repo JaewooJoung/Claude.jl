@@ -252,6 +252,6 @@ MIT 라이선스 - Claude와 마음껏 대화하세요! ❤️
 ---
 
 <div align="center">
-정재우가 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)로 만들었습니다<br>
+정재우가 <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-dark.svg" height="30"/> 로 만들었습니다<br>
 Claude.jl이 마음에 드신다면 ⭐을 눌러주세요!
 </div>

@@ -252,6 +252,6 @@ MIT License - feel free to use this package to chat with Claude to your heart's 
 ---
 
 <div align="center">
-Made with 🤖 by Jaewoo<br>
+Made with [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org) by Jaewoo<br>
 If you like Claude.jl, give it a ⭐!
 </div>

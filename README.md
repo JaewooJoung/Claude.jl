@@ -222,7 +222,7 @@ The response object contains:
    - Use `.env` files for development
 
 2. **Error Handling**
-   - Always use try-catch blocks
+   - Always use try-catch blocks(for test uses)
    - Handle specific error cases
    - Provide clear error messages
 

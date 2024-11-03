@@ -45,8 +45,7 @@ println(response.content[1].text)
 Pop open your Julia REPL and let's get started:
 
 ```julia
-using Pkg
-Pkg.add(url="https://github.com/JaewooJoung/Claude.jl")
+] add Claude
 ```
 
 ## 🚀 Quick Start

@@ -8,6 +8,8 @@
 
 ```julia
 using Claude
+# if you want to do it from the code, # replace the string below with your actual API key=
+#client = ClaudeClient(api_key="sk-ant-api0*-******-***************-***********************")
 client = ClaudeClient()
 response = chat(client, "Why is Julia awesome?")
 println(response.content[1].text)

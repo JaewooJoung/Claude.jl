@@ -101,6 +101,8 @@ $env:ANTHROPIC_API_KEY="your-api-key-here"
 using Claude
 
 # Create client (API key from environment)
+# if you want to do it from the code, # replace the string below with your actual API key=
+#client = ClaudeClient(api_key="sk-ant-api0*-******-***************-***********************")
 client = ClaudeClient()
 
 # Simple question
